@@ -73,3 +73,9 @@ Your submission is now ready for review.
 - Create a new branch for every task.
 - Write clear and meaningful commit messages.
 - Respond to review comments and update your Pull Request if requested.
+
+---
+
+## 🚀 Live Demo Link
+The project is built, deployed, and live at:
+👉 **[Chess Tournament Management System (Netlify)](https://chess-tournament-submissions.netlify.app/)**
